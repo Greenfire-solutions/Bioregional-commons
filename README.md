@@ -2,6 +2,8 @@
 
 **A practical operating system for people organizing as members of living ecosystems.**
 
+Written by [Green Fire Research and Innovation Center](https://green-fire-site.vercel.app/). The working software that enforces this protocol is [BioRegional OS](https://github.com/Greenfire-solutions/Bioregional-OS); read more about Green Fire's [bioregional AI and bioregional technology](https://green-fire-site.vercel.app/bioregional-ai) and [solarpunk](https://green-fire-site.vercel.app/solarpunk) work.
+
 BioRegional Commons is an open, place-based framework for communities that want to organize around the real ecological and social systems they belong to: watersheds, ecoregions, neighborhoods, food systems, care networks, local economies, and shared culture.
 
 It is designed for:
