@@ -2,7 +2,17 @@
 
 **A practical operating system for people organizing as members of living ecosystems.**
 
-Written by [Green Fire Research and Innovation Center](https://green-fire-site.vercel.app/). The working software that enforces this protocol is [BioRegional OS](https://github.com/Greenfire-solutions/Bioregional-OS); read more about Green Fire's [bioregional AI and bioregional technology](https://green-fire-site.vercel.app/bioregional-ai) and [solarpunk](https://green-fire-site.vercel.app/solarpunk) work.
+Written by [Green Fire Research and Innovation Center](https://greenfire.earth/). The working software that enforces this protocol is [BioRegional OS](https://github.com/Greenfire-solutions/Bioregional-OS); read more about Green Fire's [bioregional AI and bioregional technology](https://greenfire.earth/bioregional-ai) and [solarpunk](https://greenfire.earth/solarpunk) work.
+
+## Start here
+
+The full manual is in this repository as a Word document. Click a file name, then the download
+button (top right of the file view), and open it in Word, Pages or Google Docs:
+
+- **[Manual v1.1, Operator Edition](Green_Fire_Bioregional_Commons_Manual_v1.1_Operator_Edition.docx)**: the complete protocol with ready-to-copy templates (about 20,000 words). Start with this one.
+- [Manual v1](Green_Fire_Bioregional_Commons_Manual_v1.docx): the shorter first edition (about 9,000 words).
+
+This page is the summary. For a first meeting, read "The Double Mandate", "The 12-Stage Living Loop" and "Start a Chapter" below, then run the "Minimum Viable Chapter Test" together.
 
 BioRegional Commons is an open, place-based framework for communities that want to organize around the real ecological and social systems they belong to: watersheds, ecoregions, neighborhoods, food systems, care networks, local economies, and shared culture.
 
@@ -382,7 +392,7 @@ Qualified professionals and appropriate authorities should be involved whenever 
 
 ## Repository Status
 
-**Version:** 1.0  
+**Version:** 1.1 (Operator Edition)  
 **Status:** Field-ready draft  
 **Original manual date:** July 2026
 
